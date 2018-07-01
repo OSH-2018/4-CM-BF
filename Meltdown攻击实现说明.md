@@ -38,6 +38,8 @@ $./run.sh # 此脚本引用自：https://gitee.com/idea4good/meltdown/blob/maste
 用于查找version banner的物理地址
 ```
 
+##测试环境：Ubuntu 16.02（禁用PTI）
+
 #####作者：PB16060674-归舒睿
 
 
